@@ -247,7 +247,7 @@ section.hero {
 }
 /*------ Section: Testimonials ------*/
 .testimonial {
-  background: url(testimonial-bg.jpg);
+  background: url(testimonial.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
